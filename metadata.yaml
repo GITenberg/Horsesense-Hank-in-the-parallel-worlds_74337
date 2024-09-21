@@ -1,5 +1,8 @@
 _repo: Horsesense-Hank-in-the-parallel-worlds_74337
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74337-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74337#Horsesense-Hank-in-the-parallel-worlds
 gutenberg_issued: '2024-08-30'
 gutenberg_type: Text
 identifiers:
